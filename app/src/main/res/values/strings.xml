@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Atask Assignment</string>
+    <string name="camera_screen">Take Picture</string>
+    <string name="loading">Please wait…</string>
+    <string name="invalid_msg">Invalid</string>
+    <string name="invalid_oprand_msg">Invalid Operand</string>
+    <string name="invalid_inputs_msg">Invalid Inputs</string>
+    <string name="operation_failure_msg">Operation Failure %s</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="browse_picture">Browse Picture</string>
+    <string name="process_operation">Proceed Operation</string>
+    <string name="successful_msg">Operation Successful</string>
+    <string name="failure_msg">Operation Failure</string>
+    <string name="save">Save</string>
+    <string name="capture_failure_msg">Capturing Failed</string>
+    <string name="save_failure_msg">Saving Failed</string>
+</resources>
